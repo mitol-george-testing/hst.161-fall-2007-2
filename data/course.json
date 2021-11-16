@@ -1,0 +1,48 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Developmental Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering"
+    ],
+    [
+      "Health and Medicine",
+      "Biomedicine"
+    ],
+    [
+      "Health and Medicine",
+      "Functional Genomics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "157f1092-5511-fcb8-674d-65677d60f449",
+      "aaf40e05-622c-54ab-f7c5-9111ccc61135"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Molecular Biology and Genetics in Modern Medicine",
+  "course_description": "This course provides a foundation for understanding the relationship between molecular biology, developmental biology, genetics, genomics, bioinformatics, and medicine. It develops explicit connections between basic research, medical understanding, and the perspective of patients. Principles of human genetics are reviewed. We translate clinical understanding into analysis at the level of the gene, chromosome and molecule; we cover the concepts and techniques of molecular biology and genomics, and the strategies and methods of genetic analysis, including an introduction to bioinformatics. Material in the course extends beyond basic principles to current research activity in human genetics.\n",
+  "department_numbers": [
+    "HST"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "HST.161",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
